@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Su</h1>
 <h3 align="center">A passionate graduate developer from UK</h3>
 
+- 👩🏻‍🎓 Studied BSc(Hons) in Applied Computing and MSc in Artificial Intellegice at the University of Huddersfield, UK
+   
+- 💭 Currently updating my programming skills to re-enter the workforce with a strong focus on contributing to impactful projects.
+
 - 🔭 I’m currently working on [real time chat app with users and chat rooms](https://github.com/su2118/ChatApp)
 
 - 📫 How to reach me **htetsusan.mdy@gmail.com**
