@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Su</h1>
 <h3 align="center">A passionate graduate developer from UK</h3>
 
-- 👩🏻‍🎓 **Education:**  
-  BSc (Hons) in Applied Computing  
-  MSc in Artificial Intelligence  
-  *University of Huddersfield, UK*
+👩🏻‍🎓 **Education:**  
+- BSc (Hons) in Applied Computing  
+- MSc in Artificial Intelligence  
+- *University of Huddersfield, UK*
 
-- 🔍 Actively looking for entry-level opportunities 💼
+🔍 Actively looking for entry-level opportunities 💼
 Took a career break due to visa-related issues. During this time, I kept my skills current by working on personal projects, contributing to open source, and staying updated on industry trends. Now fully available and eager to apply my knowledge in a professional setting.
    
-- 💡 Currently sharpening my programming skills to re-enter the workforce with a focus on contributing to impactful projects.
+💡 **Currently sharpening my programming skills** to re-enter the workforce with a focus on contributing to impactful projects.
 
-- 🔭 I’m currently working on [real time chat app with users and chat rooms](https://github.com/su2118/ChatApp)
+🔭 **I’m currently working on** [real time chat app with users and chat rooms](https://github.com/su2118/ChatApp)
 
-- 📫 How to reach me **htetsusan.mdy@gmail.com**
+📫 How to reach me : **htetsusan.mdy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
