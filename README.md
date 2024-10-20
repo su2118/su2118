@@ -6,7 +6,7 @@
 - 🔍 Actively looking for entry-level opportunities 💼
 Took a career break due to visa-related issues. During this time, I kept my skills current by working on personal projects, contributing to open source, and staying updated on industry trends. Now fully available and eager to apply my knowledge in a professional setting.
    
-- 💭 Currently updating my programming skills to re-enter the workforce with a strong focus on contributing to impactful projects.
+- 💡 Currently sharpening my programming skills to re-enter the workforce with a focus on contributing to impactful projects.
 
 - 🔭 I’m currently working on [real time chat app with users and chat rooms](https://github.com/su2118/ChatApp)
 
