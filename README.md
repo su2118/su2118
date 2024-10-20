@@ -2,6 +2,9 @@
 <h3 align="center">A passionate graduate developer from UK</h3>
 
 - 👩🏻‍🎓 Studied BSc(Hons) in Applied Computing and MSc in Artificial Intellegice at the University of Huddersfield, UK
+
+- 🔍 Actively looking for entry-level opportunities 💼
+Took a career break due to visa-related issues. During this time, I kept my skills current by working on personal projects, contributing to open source, and staying updated on industry trends. Now fully available and eager to apply my knowledge in a professional setting.
    
 - 💭 Currently updating my programming skills to re-enter the workforce with a strong focus on contributing to impactful projects.
 
