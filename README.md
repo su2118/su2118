@@ -6,12 +6,17 @@
 - MSc in Artificial Intelligence  
 - *University of Huddersfield, UK*
 
-🔍 Actively looking for entry-level opportunities 💼
-Took a career break due to visa-related issues. During this time, I kept my skills current by working on personal projects, contributing to open source, and staying updated on industry trends. Now fully available and eager to apply my knowledge in a professional setting.
+🔍 **Actively seeking entry-level opportunities** 💼  
+I took a career break due to visa-related issues. During this time, I kept my skills current by working on personal projects, contributing to open source, and staying updated on industry trends. I’m now fully available and eager to apply my knowledge in a professional setting.
    
 💡 **Currently sharpening my programming skills** to re-enter the workforce with a focus on contributing to impactful projects.
 
 🔭 **I’m currently working on** [real time chat app with users and chat rooms](https://github.com/su2118/ChatApp)
+
+### Future Goals  
+- Expand my expertise in AI and machine learning by exploring advanced neural network architectures.  
+- Contribute to impactful open-source projects in AI and web development.  
+- Grow into a full-stack developer role with a focus on scalable and user-friendly applications.
 
 📫 How to reach me : **htetsusan.mdy@gmail.com**
 
