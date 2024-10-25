@@ -2,9 +2,13 @@
 <h3 align="center">A passionate graduate developer from UK</h3>
 
 👩🏻‍🎓 **Education:**  
-- BSc (Hons) in Applied Computing  
-- MSc in Artificial Intelligence  
+- BSc (Hons) in Applied Computing **(2.1)**
+- MSc in Artificial Intelligence  **(Merit)**
 - *University of Huddersfield, UK*
+
+📖 **Certification:** 
+- HyperionDev Data Science Bootcamp UK
+  **(Ranked 7 out of 978students)**
 
 🔍 **Actively seeking entry-level opportunities** 💼  
 I took a career break due to visa-related issues. During this time, I kept my skills current by working on personal projects, contributing to open source, and staying updated on industry trends. I’m now fully available and eager to apply my knowledge in a professional setting.
