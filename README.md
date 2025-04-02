@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Su</h1>
-<h3 align="center">A passionate graduate developer from UK</h3>
+<h3 align="center">A passionate junior software developer from UK</h3>
 
 👩🏻‍🎓 **Education:**  
 - BSc (Hons) in Applied Computing **(2.1)**
@@ -9,18 +9,15 @@
 📖 **Certification:** 
 - HyperionDev Data Science Bootcamp UK
   **(Ranked 7 out of 978students)**
-
-🔍 **Actively seeking entry-level opportunities** 💼  
-I took a career break due to visa-related issues. During this time, I kept my skills current by working on personal projects, contributing to open source, and staying updated on industry trends. I’m now fully available and eager to apply my knowledge in a professional setting.
    
-💡 **Currently sharpening my programming skills** to re-enter the workforce with a focus on contributing to impactful projects.
+💡 **Currently sharpening my programming skills** in C# and SQL 
 
-🔭 **I’m currently working on** [real time chat app with users and chat rooms](https://github.com/su2118/ChatApp)
+🔭 **I’m currently working on** [Text-Based Adventure Game](https://github.com/su2118/AdventureGame)
 
 ### Future Goals  
 - Expand my expertise in AI and machine learning by exploring advanced neural network architectures.  
 - Contribute to impactful open-source projects in AI and web development.  
-- Grow into a full-stack developer role with a focus on scalable and user-friendly applications.
+- Grow into a mid-level developer role with a focus on scalable and user-friendly applications.
 
 📫 How to reach me : **htetsusan.mdy@gmail.com**
 
