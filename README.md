@@ -12,7 +12,7 @@
    
 💡 **Currently sharpening my programming skills** in C# and SQL 
 
-🔭 **I’m currently working on** [Text-Based Adventure Game](https://github.com/su2118/AdventureGame)
+🔭 **I’m currently working on** [Ecommerce Microservices](https://github.com/su2118/ecommerce-microservices)
 
 ### Future Goals  
 - Expand my expertise in AI and machine learning by exploring advanced neural network architectures.  
