@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Su</h1>
-<h3 align="center">A passionate junior software developer from UK</h3>
+<h3 align="center">A passionate software developer from UK</h3>
 
 👩🏻‍🎓 **Education:**  
 - BSc (Hons) in Applied Computing **(2.1)**
@@ -10,7 +10,7 @@
 - HyperionDev Data Science Bootcamp UK
   **(Ranked 7 out of 978students)**
    
-💡 **Currently sharpening my programming skills** in C# and SQL 
+💡 **Currently sharpening my programming skills** in C#, Python and SQL 
 
 🔭 **I’m currently working on** [Ecommerce Microservices](https://github.com/su2118/ecommerce-microservices)
 
